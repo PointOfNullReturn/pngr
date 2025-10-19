@@ -28,3 +28,8 @@ target
 .idea/dataSources*/
 .idea/contentModel.xml
 .idea/sonarlint/
+
+
+# Added by cargo
+
+/target
